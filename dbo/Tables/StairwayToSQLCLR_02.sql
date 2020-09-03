@@ -1,0 +1,6 @@
+﻿CREATE TABLE [dbo].[StairwayToSQLCLR_02] (
+    [ID]         UNIQUEIDENTIFIER NOT NULL,
+    [InsertTime] DATETIME         NOT NULL,
+    PRIMARY KEY CLUSTERED ([ID] ASC)
+);
+
